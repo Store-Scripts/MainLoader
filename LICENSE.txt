@@ -1,0 +1,14 @@
+Copyright (c) 2025 Store-Scripts
+
+You are permitted to:
+- View and read this code
+- Use it as-is in your own game or project
+- Share or redistribute the code as-is, with credit
+
+You are NOT permitted to:
+- Modify or alter the code
+- Claim the code as your own
+- Reupload modified versions
+- Sell or include this code in commercial products without permission
+
+This code is provided "as is", with no warranty. Contact Store-Scripts for other uses.
